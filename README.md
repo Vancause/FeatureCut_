@@ -1,2 +1,2 @@
-# FeatureCut_
+# FeatureCut
 The code will be released soon. 
